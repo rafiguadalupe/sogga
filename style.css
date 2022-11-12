@@ -1,0 +1,25 @@
+body {
+background-color: rgb(5, 5, 134);
+color: rgb(255, 255, 255);
+text-align: center;
+}
+.name_of_objects {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    font-size: 20px;
+    letter-spacing: 20px;
+    text-shadow: rgb(254, 255, 250) 5px 5px 5px;
+}
+#camera {
+    border: 10px black ridge;
+    width: 350px ;
+    height: 300px;
+} 
+#result {
+    border: 10px black ridge;
+    width: 350px ;
+    height: 300px;
+}
+label {
+    font-size: 30px;
+}
